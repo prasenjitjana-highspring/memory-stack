@@ -1,0 +1,6 @@
+# runtime data never belongs in this repo (it lives under ~/.omp, ~/.pi, ~/.cache)
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+.DS_Store

@@ -1,0 +1,10 @@
+# omp memory-stack settings (merge into ~/.omp/agent/config.yml)
+# These keys are the memory portion only; theme/roles/etc. stay per-machine.
+memory:
+  backend: mnemopi
+mnemopi:
+  scoping: per-project-tagged
+  polyphonicRecall: true
+  proactiveLinking: true
+autolearn:
+  enabled: true
