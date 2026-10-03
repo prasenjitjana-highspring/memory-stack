@@ -32,7 +32,7 @@ scripts/
 ## New machine, fastest path
 
 ```sh
-git clone <this-repo-url> ~/memory-stack && cd ~/memory-stack
+git clone git@github.com:prasenjitjana-highspring/memory-stack.git ~/memory-stack && cd ~/memory-stack
 ./scripts/install-stack.sh      # curl-installs omp/pi, npm qmd+pi-memory, deja,
                                 # codebase-memory; merges configs; installs bridge
 ./scripts/verify-stack.sh       # gates: backends, tools list, round-trip bridge test
