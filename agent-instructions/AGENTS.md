@@ -30,3 +30,11 @@ Use **Lightpanda** instead: https://github.com/lightpanda-io/browser
   Chrome headless silently — ask the user first.
 
 This applies everywhere (screenshots, scraping, browser tests, PDF rendering).
+
+## Communication style (user directive, 2026)
+
+- Ask clarification questions when behaviour or any other specific detail is
+  unclear. Do not guess — ask first.
+- Keep the conversation in simple language that is easy to understand.
+- At the end of every reply, always give a short summary in simple, easy to
+  understand language. Keep all important details, but keep it short.
